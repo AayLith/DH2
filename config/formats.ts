@@ -248,6 +248,10 @@ import { Formats as Yokaimons                   } from '../data/mods/yokaimons/f
 import { Formats as ZAOU						} from '../data/mods/gen9legendsou/formats';
 
 export const Formats: import('../sim/dex-formats').FormatList = [
+	{
+		section: "Hic Sunt Dracones",
+		column: 1,
+	},
 	...HSD,
 	///////////////////////////////////////////////////////////////
 	///////////////////// Gen 9 Pet Mods //////////////////////////

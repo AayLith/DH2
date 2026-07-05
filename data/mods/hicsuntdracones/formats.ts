@@ -2,7 +2,7 @@ import { FormatData } from '../../../sim/dex-formats';
 
 export const Formats: FormatData[] = [
 	{
-		name: "[Gen 9] HSD",
+		name: "[Gen 9] Hic Sunt Dracones",
 		desc: `<b>Hic Sunt Dracones</b>"`,
 		mod: 'hicsuntdracones',
 		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Clause', 'Species Clause', 'Terastal Clause', 'Sleep Clause Mod', 'Z-Move Clause', 'Mega Data Mod', 'Data Mod'],

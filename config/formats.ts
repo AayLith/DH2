@@ -30,6 +30,7 @@ After that, find the right section within the formats list that describes your m
 */
 
 // Imports
+import { Formats as HSD                         } from '../data/mods/hsd/formats';
 import { Formats as Abilitypos                  } from '../data/mods/abilitypos/formats';
 import { Formats as Alternatium                 } from '../data/mods/alternatium/formats';
 import { Formats as AlternatiumEX               } from '../data/mods/alternatiumex/formats';
@@ -247,6 +248,7 @@ import { Formats as Yokaimons                   } from '../data/mods/yokaimons/f
 import { Formats as ZAOU						} from '../data/mods/gen9legendsou/formats';
 
 export const Formats: import('../sim/dex-formats').FormatList = [
+	...HSD,
 	///////////////////////////////////////////////////////////////
 	///////////////////// Gen 9 Pet Mods //////////////////////////
 	///////////////////////////////////////////////////////////////

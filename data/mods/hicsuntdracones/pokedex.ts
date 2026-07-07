@@ -1,6 +1,6 @@
 export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 	krakalong: {
-		num: 10001,
+		num: 1,
 		name: "Krakalong",
 		types: ["Fire", "Dragon"],
 		baseStats: {hp: 80, atk:  90, def: 60, spa: 110, spd: 95, spe: 105},
@@ -9,7 +9,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		weightkg: 40,
 	},
 	swedusa: {
-		num: 10002,
+		num: 2,
 		name: "Swedusa",
 		types: ["Poison", "Dark"],
 		baseStats: {hp: 80, atk:  90, def: 75, spa: 80, spd: 90, spe: 95},
@@ -18,7 +18,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		weightkg: 50,
 	},
 	excalibirb: {
-		num: 10003,
+		num: 3,
 		name: "Excalibirb",
 		types: ["Flying", "Steel"],
 		baseStats: {hp: 85, atk:  105, def: 105, spa: 70, spd: 85, spe: 75},
@@ -27,7 +27,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
 		weightkg: 190,
 	},
 	pentragon: {
-		num: 10004,
+		num: 4,
 		name: "Pentragon",
 		types: ["Dragon", "Normal"],
 		baseStats: {hp: 70, atk:  80, def: 60, spa: 110, spd: 90, spe: 120},

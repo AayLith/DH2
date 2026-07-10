@@ -274,7 +274,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
     },
     "libegon": {
         "num": 13,
-        "name": "Libégon",
+        "name": "Libegon",
         "types": [
             "Dragon",
             "Bug"

@@ -462,6 +462,153 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "height": 1.5,
         "weight": 42
     },
+    "harpanguille": {
+        "num": 21,
+        "name": "Harpanguille",
+        "types": [
+            "Water",
+            "Poison"
+        ],
+        "heightm": 3.5,
+        "weightkg": 80,
+        "baseStats": {
+            "hp": 54,
+            "atk": 130,
+            "def": 92,
+            "spa": 155,
+            "spd": 99,
+            "spe": 70
+        },
+        "abilities": {
+            "0": "Toxic Chain"
+        }
+    },
+    "deserstrier": {
+        "num": 22,
+        "name": "Deserstrier",
+        "types": [
+            "Ground",
+            "Ghost"
+        ],
+        "heightm": 2.1,
+        "weightkg": 900,
+        "baseStats": {
+            "hp": 131,
+            "atk": 150,
+            "def": 75,
+            "spa": 55,
+            "spd": 60,
+            "spe": 50
+        },
+        "abilities": {
+            "0": "Sand Force",
+            "1": "Cursed Body"
+        }
+    },
+    "dracoli": {
+        "num": 23,
+        "name": "Dracoli",
+        "types": [
+            "Dragon"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Dragonize"
+        }
+    },
+    "batalier": {
+        "num": 24,
+        "name": "Batalier",
+        "types": [
+            "Normal",
+            "Rock"
+        ],
+        "heightm": 1.9,
+        "weightkg": 500,
+        "baseStats": {
+            "hp": 56,
+            "atk": 135,
+            "def": 76,
+            "spa": 56,
+            "spd": 152,
+            "spe": 80
+        },
+        "abilities": {
+            "0": "Rock Head"
+        }
+    },
+    "belzebraise": {
+        "num": 25,
+        "name": "Belzebraise",
+        "types": [
+            "Fire",
+            "Dark"
+        ],
+        "heightm": 2.3,
+        "weightkg": 85,
+        "baseStats": {
+            "hp": 100,
+            "atk": 69,
+            "def": 75,
+            "spa": 114,
+            "spd": 104,
+            "spe": 72
+        },
+        "abilities": {
+            "0": "Magic Bounce"
+        }
+    },
+    "draqueduc": {
+        "num": 26,
+        "name": "Draqueduc",
+        "types": [
+            "Water",
+            "Steel"
+        ],
+        "heightm": 3.4,
+        "weightkg": 1600,
+        "baseStats": {
+            "hp": 110,
+            "atk": 90,
+            "def": 130,
+            "spa": 120,
+            "spd": 120,
+            "spe": 30
+        },
+        "abilities": {
+            "0": "Mega Launcher"
+        }
+    },
+    "stegausole": {
+        "num": 27,
+        "name": "Stegausolee",
+        "types": [
+            "Rock",
+            "Ghost"
+        ],
+        "heightm": 3.1,
+        "weightkg": 700,
+        "baseStats": {
+            "hp": 106,
+            "atk": 136,
+            "def": 67,
+            "spa": 117,
+            "spd": 80,
+            "spe": 64
+        },
+        "abilities": {
+            "0": "Serene Grace"
+        }
+    },
     "artikodin": {
         "num": 144,
         "name": "Artikodin",

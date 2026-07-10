@@ -90,5 +90,33 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	kelpistia: {
 		tier: "HSD",
 		doublesTier: "HSD",
+	},
+	harpanguille: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	deserstrier: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	dracoli: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	batalier: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	belzebraise: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	draqueduc: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	stegausole: {
+		tier: "HSD",
+		doublesTier: "HSD",
 	}
 };

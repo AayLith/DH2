@@ -1,4 +1,4 @@
-export const FormatsData: {[k: string]: ModdedLearnsetData} = {
+export const Learnsets: {[speciesid: string]: LearnsetData} = {
     "krakalong": {
         "learnset": {
             "acrobatics": [

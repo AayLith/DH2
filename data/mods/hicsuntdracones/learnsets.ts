@@ -5890,7 +5890,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
             ]
         }
     },
-    "stegausole": {
+    "stegausolee": {
         "learnset": {
             "rest": [
                 "9L1"

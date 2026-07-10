@@ -588,7 +588,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "0": "Mega Launcher"
         }
     },
-    "stegausole": {
+    "stegausolee": {
         "num": 27,
         "name": "Stegausolee",
         "types": [

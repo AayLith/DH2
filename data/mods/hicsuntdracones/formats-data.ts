@@ -115,7 +115,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "HSD",
 		doublesTier: "HSD",
 	},
-	stegausole: {
+	stegausolee: {
 		tier: "HSD",
 		doublesTier: "HSD",
 	}

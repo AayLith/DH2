@@ -320,5 +320,218 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         },
         "height": 16,
         "weight": 500
+    },
+    "corvicieux": {
+        "num": 12,
+        "name": "Corvicieux",
+        "types": [
+            "Flying",
+            "Dark"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 80,
+            "atk": 135,
+            "def": 40,
+            "spa": 125,
+            "spd": 30,
+            "spe": 130
+        },
+        "abilities": {
+            "0": "Sharpness"
+        },
+        "height": 0.8,
+        "weight": 13
+    },
+    "libegon": {
+        "num": 13,
+        "name": "Libégon",
+        "types": [
+            "Dragon",
+            "Bug"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 110,
+            "def": 80,
+            "spa": 90,
+            "spd": 80,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Shield Dust",
+            "1": "Compound Eyes",
+            "H": "Tinted Lens"
+        },
+        "height": 2,
+        "weight": 82
+    },
+    "majestyrm": {
+        "num": 14,
+        "name": "Majestyrm",
+        "types": [
+            "Dragon",
+            "Fairy"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 125,
+            "atk": 100,
+            "def": 80,
+            "spa": 125,
+            "spd": 110,
+            "spe": 60
+        },
+        "abilities": {
+            "0": "Misty Surge"
+        },
+        "height": 2.4,
+        "weight": 170
+    },
+    "aikeron": {
+        "num": 15,
+        "name": "Aikeron",
+        "types": [
+            "Flying",
+            "Fighting"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 113,
+            "atk": 129,
+            "def": 78,
+            "spa": 81,
+            "spd": 56,
+            "spe": 114
+        },
+        "abilities": {
+            "0": "Technician"
+        },
+        "height": 1.3,
+        "weight": 36
+    },
+    "galinel": {
+        "num": 16,
+        "name": "Galinel",
+        "types": [
+            "Ground",
+            "Fairy"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 58,
+            "atk": 124,
+            "def": 105,
+            "spa": 112,
+            "spd": 73,
+            "spe": 60
+        },
+        "abilities": {
+            "0": "Hospitality",
+            "1": "Triage",
+            "H": "Natural Cure"
+        },
+        "height": 0.8,
+        "weight": 25
+    },
+	"galopa": {
+        "num": 1,
+        "name": "Galopa",
+        "types": [
+            "Fire",
+            "Fairy"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 65,
+            "atk": 125,
+            "def": 80,
+            "spa": 80,
+            "spd": 90,
+            "spe": 130
+        },
+        "abilities": {
+            "0": "Pixilate"
+        },
+        "height": 1.7,
+        "weight": 85
+    },
+    "canartillerie": {
+        "num": 2,
+        "name": "Canartillerie",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 65,
+            "atk": 125,
+            "def": 96,
+            "spa": 102,
+            "spd": 82,
+            "spe": 65
+        },
+        "abilities": {
+            "0": "Quick Draw"
+        },
+        "height": 0.8,
+        "weight": 15
+    },
+    "mindroid": {
+        "num": 3,
+        "name": "Mindroid",
+        "types": [
+            "Steel",
+            "Electric"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 40,
+            "atk": 150,
+            "def": 100,
+            "spa": 100,
+            "spd": 60,
+            "spe": 100
+        },
+        "abilities": {
+            "0": "Sturdy",
+            "1": "Aftermath"
+        },
+        "height": 0.1,
+        "weight": 2
+    },
+    "kelpistia": {
+        "num": 4,
+        "name": "Kelpistia",
+        "types": [
+            "Grass",
+            "Dark"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 55,
+            "atk": 117,
+            "def": 70,
+            "spa": 113,
+            "spd": 107,
+            "spe": 78
+        },
+        "abilities": {
+            "0": "Tangling Hair",
+            "1": "Grim Neigh"
+        },
+        "height": 1.5,
+        "weight": 42
     }
 };

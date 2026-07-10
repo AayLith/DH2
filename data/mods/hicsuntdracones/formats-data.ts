@@ -15,19 +15,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "HSD",
 		doublesTier: "HSD",
 	},
-	artikodin: {
-		tier: "HSD",
-		doublesTier: "HSD",
-	},
-	sulfura: {
-		tier: "HSD",
-		doublesTier: "HSD",
-	},
-	electhor: {
-		tier: "HSD",
-		doublesTier: "HSD",
-	},
-	grahyna: {
+	grahyena: {
 		tier: "HSD",
 		doublesTier: "HSD",
 	},
@@ -55,4 +43,52 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "HSD",
 		doublesTier: "HSD",
 	},
+	artikodin: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	sulfura: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	electhor: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	corvicieux: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	libegon: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	majestyrm: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	aikeron: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	galinel: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	galopa: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	canartillerie: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	mindroid: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	kelpistia: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	}
 };

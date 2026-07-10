@@ -89,78 +89,6 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "height": 1.8,
         "weight": 60
     },
-    "artikodin": {
-        "num": 144,
-        "name": "Artikodin",
-        "types": [
-            "Flying",
-            "Ice"
-        ],
-        "heightm": 1,
-        "weightkg": 10,
-        "baseStats": {
-            "hp": 90,
-            "atk": 85,
-            "def": 90,
-            "spa": 125,
-            "spd": 100,
-            "spe": 90
-        },
-        "abilities": {
-            "0": "Snow Warning",
-            "1": "Ice Scales"
-        },
-        "height": 1.7,
-        "weight": 55.4
-    },
-    "sulfura": {
-        "num": 146,
-        "name": "Sulfura",
-        "types": [
-            "Flying",
-            "Fire"
-        ],
-        "heightm": 1,
-        "weightkg": 10,
-        "baseStats": {
-            "hp": 100,
-            "atk": 90,
-            "def": 90,
-            "spa": 125,
-            "spd": 85,
-            "spe": 90
-        },
-        "abilities": {
-            "0": "Drought",
-            "1": "Flash Fire"
-        },
-        "height": 2.2,
-        "weight": 60
-    },
-    "electhor": {
-        "num": 145,
-        "name": "Electhor",
-        "types": [
-            "Flying",
-            "Electric"
-        ],
-        "heightm": 1,
-        "weightkg": 10,
-        "baseStats": {
-            "hp": 90,
-            "atk": 115,
-            "def": 75,
-            "spa": 125,
-            "spd": 75,
-            "spe": 100
-        },
-        "abilities": {
-            "0": "Drizzle",
-            "1": "Lightning Rod"
-        },
-        "height": 1.6,
-        "weight": 52.6
-    },
     "grahyna": {
         "num": 5,
         "name": "Grahyèna",
@@ -441,13 +369,13 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "weight": 25
     },
 	"galopa": {
-        "num": 1,
+        "num": 17,
         "name": "Galopa",
         "types": [
             "Fire",
             "Fairy"
         ],
-        "heightm": 1,
+        "heightm": 1.7,
         "weightkg": 10,
         "baseStats": {
             "hp": 65,
@@ -464,7 +392,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "weight": 85
     },
     "canartillerie": {
-        "num": 2,
+        "num": 18,
         "name": "Canartillerie",
         "types": [
             "Normal",
@@ -487,7 +415,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "weight": 15
     },
     "mindroid": {
-        "num": 3,
+        "num": 19,
         "name": "Mindroid",
         "types": [
             "Steel",
@@ -511,7 +439,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "weight": 2
     },
     "kelpistia": {
-        "num": 4,
+        "num": 20,
         "name": "Kelpistia",
         "types": [
             "Grass",
@@ -533,5 +461,77 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         },
         "height": 1.5,
         "weight": 42
+    },
+    "artikodin": {
+        "num": 144,
+        "name": "Artikodin",
+        "types": [
+            "Flying",
+            "Ice"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 85,
+            "def": 90,
+            "spa": 125,
+            "spd": 100,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Snow Warning",
+            "1": "Ice Scales"
+        },
+        "height": 1.7,
+        "weight": 55.4
+    },
+    "sulfura": {
+        "num": 146,
+        "name": "Sulfura",
+        "types": [
+            "Flying",
+            "Fire"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 100,
+            "atk": 90,
+            "def": 90,
+            "spa": 125,
+            "spd": 85,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Drought",
+            "1": "Flash Fire"
+        },
+        "height": 2.2,
+        "weight": 60
+    },
+    "electhor": {
+        "num": 145,
+        "name": "Electhor",
+        "types": [
+            "Flying",
+            "Electric"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 115,
+            "def": 75,
+            "spa": 125,
+            "spd": 75,
+            "spe": 100
+        },
+        "abilities": {
+            "0": "Drizzle",
+            "1": "Lightning Rod"
+        },
+        "height": 1.6,
+        "weight": 52.6
     }
 };

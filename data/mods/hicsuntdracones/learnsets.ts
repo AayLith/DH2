@@ -1203,7 +1203,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
             ]
         }
     },
-    "grahyna": {
+    "grahyena": {
         "learnset": {
             "rest": [
                 "9L1"

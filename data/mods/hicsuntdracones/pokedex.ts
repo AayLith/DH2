@@ -512,14 +512,14 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "Dragon"
         ],
         "heightm": 1,
-        "weightkg": 10,
+        "weightkg": 50,
         "baseStats": {
-            "hp": 90,
-            "atk": 90,
-            "def": 90,
-            "spa": 90,
-            "spd": 90,
-            "spe": 90
+            "hp": 60,
+            "atk": 95,
+            "def": 65,
+            "spa": 130,
+            "spd": 110,
+            "spe": 65
         },
         "abilities": {
             "0": "Dragonize"
@@ -608,6 +608,50 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "abilities": {
             "0": "Serene Grace"
         }
+    },
+	"guivronce": {
+        "num": 1,
+        "name": "Guivronce",
+        "types": [
+            "Dragon",
+            "Grass"
+        ],
+        "heightm": 3.4,
+        "weightkg": 210,
+        "baseStats": {
+            "hp": 102,
+            "atk": 139,
+            "def": 88,
+            "spa": 93,
+            "spd": 122,
+            "spe": 56
+        },
+        "abilities": {
+            "0": "Grassy Surge"
+        },
+        "notes": "Coverage majeur insect\nCoverage mineur glace, sol, acier et poison\nTrick room, terrain herbu, physique"
+    },
+    "herclone": {
+        "num": 2,
+        "name": "Herclone",
+        "types": [
+            "Normal",
+            "Ghost"
+        ],
+        "heightm": 0,
+        "weightkg": 0,
+        "baseStats": {
+            "hp": 200,
+            "atk": 75,
+            "def": 125,
+            "spa": 75,
+            "spd": 75,
+            "spe": 50
+        },
+        "abilities": {
+            "0": "Illusion"
+        },
+        "notes": "Tank"
     },
     "artikodin": {
         "num": 144,

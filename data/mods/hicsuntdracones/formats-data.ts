@@ -118,5 +118,13 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	stegausolee: {
 		tier: "HSD",
 		doublesTier: "HSD",
+	},
+	tranchodon: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	neigydre: {
+		tier: "HSD",
+		doublesTier: "HSD",
 	}
 };

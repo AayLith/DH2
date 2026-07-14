@@ -686,5 +686,47 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "0": "Dragonize"
         },
         "notes": "Setup sweeper spécial"
+    },
+	"tranchodon": {
+        "num": 28,
+        "name": "Tranchodon",
+        "types": [
+            "Dragon",
+            "Steel"
+        ],
+        "heightm": 1.8,
+        "weightkg": 105.5,
+        "baseStats": {
+            "hp": 86,
+            "atk": 157,
+            "def": 100,
+            "spa": 70,
+            "spd": 80,
+            "spe": 107
+        },
+        "abilities": {
+            "0": "Mold Breaker"
+        },
+        "notes": "Wallbreaker physique\nSetup sweeper physique"
+    },
+    "neigydre": {
+        "num": 29,
+        "name": "Neigydre",
+        "types": [
+            "Dragon",
+            "Ice"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 100,
+            "atk": 100,
+            "def": 100,
+            "spa": 100,
+            "spd": 100,
+            "spe": 100
+        },
+        "abilities": {},
+        "notes": ""
     }
 };

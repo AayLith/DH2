@@ -6050,5 +6050,295 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
                 "9M"
             ]
         }
+    },
+	 "tranchodon": {
+        "learnset": {
+            "rest": [
+                "9L1"
+            ],
+            "protect": [
+                "9L1"
+            ],
+            "substitute": [
+                "9L1"
+            ],
+            "sleeptalk": [
+                "9L1"
+            ],
+            "aerialace": [
+                "9M"
+            ],
+            "aquatail": [
+                "9M"
+            ],
+            "assurance": [
+                "9M"
+            ],
+            "attract": [
+                "9M"
+            ],
+            "brickbreak": [
+                "9M"
+            ],
+            "brutalswing": [
+                "9M"
+            ],
+            "bulldoze": [
+                "9M"
+            ],
+            "confide": [
+                "9M"
+            ],
+            "counter": [
+                "9M"
+            ],
+            "dig": [
+                "9M"
+            ],
+            "doubleteam": [
+                "9M"
+            ],
+            "dracometeor": [
+                "9M"
+            ],
+            "dragonclaw": [
+                "9M"
+            ],
+            "dragondance": [
+                "9M"
+            ],
+            "dragonpulse": [
+                "9M"
+            ],
+            "dragonrage": [
+                "9M"
+            ],
+            "dragontail": [
+                "9M"
+            ],
+            "dualchop": [
+                "9M"
+            ],
+            "earthquake": [
+                "9M"
+            ],
+            "endeavor": [
+                "9M"
+            ],
+            "endure": [
+                "9M"
+            ],
+            "facade": [
+                "9M"
+            ],
+            "falseswipe": [
+                "9M"
+            ],
+            "fling": [
+                "9M"
+            ],
+            "focusblast": [
+                "9M"
+            ],
+            "focusenergy": [
+                "9M"
+            ],
+            "frustration": [
+                "9M"
+            ],
+            "gigaimpact": [
+                "9M"
+            ],
+            "grassknot": [
+                "9M"
+            ],
+            "guillotine": [
+                "9M"
+            ],
+            "harden": [
+                "9M"
+            ],
+            "honeclaws": [
+                "9M"
+            ],
+            "hyperbeam": [
+                "9M"
+            ],
+            "incinerate": [
+                "9M"
+            ],
+            "irontail": [
+                "9M"
+            ],
+            "ironhead": [
+                "9M"
+            ],
+            "laserfocus": [
+                "9M"
+            ],
+            "leer": [
+                "9M"
+            ],
+            "lowkick": [
+                "9M"
+            ],
+            "nightslash": [
+                "9M"
+            ],
+            "outrage": [
+                "9M"
+            ],
+            "payback": [
+                "9M"
+            ],
+            "poisonjab": [
+                "9M"
+            ],
+            "raindance": [
+                "9M"
+            ],
+            "razorwind": [
+                "9M"
+            ],
+            "return": [
+                "9M"
+            ],
+            "reversal": [
+                "9M"
+            ],
+            "roar": [
+                "9M"
+            ],
+            "rockslide": [
+                "9M"
+            ],
+            "rocksmash": [
+                "9M"
+            ],
+            "rocktomb": [
+                "9M"
+            ],
+            "round": [
+                "9M"
+            ],
+            "scaryface": [
+                "9M"
+            ],
+            "scratch": [
+                "9M"
+            ],
+            "secretpower": [
+                "9M"
+            ],
+            "shadowclaw": [
+                "9M"
+            ],
+            "shockwave": [
+                "9M"
+            ],
+            "slash": [
+                "9M"
+            ],
+            "snore": [
+                "9M"
+            ],
+            "stompingtantrum": [
+                "9M"
+            ],
+            "strength": [
+                "9M"
+            ],
+            "sunnyday": [
+                "9M"
+            ],
+            "superpower": [
+                "9M"
+            ],
+            "surf": [
+                "9M"
+            ],
+            "swagger": [
+                "9M"
+            ],
+            "swordsdance": [
+                "9M"
+            ],
+            "toxic": [
+                "9M"
+            ],
+            "xscissor": [
+                "9M"
+            ],
+            "metalclaw": [
+                "9M"
+            ],
+            "autotomize": [
+                "9M"
+            ],
+            "behemothblade": [
+                "9M"
+            ],
+            "irondefense": [
+                "9M"
+            ],
+            "steelroller": [
+                "9M"
+            ],
+            "smartstrike": [
+                "9M"
+            ],
+            "trailblaze": [
+                "9M"
+            ],
+            "takedown": [
+                "9M"
+            ],
+            "swift": [
+                "9M"
+            ],
+            "snarl": [
+                "9M"
+            ],
+            "scaleshot": [
+                "9M"
+            ],
+            "lowsweep": [
+                "9M"
+            ],
+            "firstimpression": [
+                "9M"
+            ],
+            "dragoncheer": [
+                "9M"
+            ],
+            "doubleedge": [
+                "9M"
+            ],
+            "closecombat": [
+                "9M"
+            ],
+            "breakingswipe": [
+                "9M"
+            ],
+            "bite": [
+                "9M"
+            ]
+        }
+    },
+    "neigydre": {
+        "learnset": {
+            "rest": [
+                "9L1"
+            ],
+            "protect": [
+                "9L1"
+            ],
+            "substitute": [
+                "9L1"
+            ],
+            "sleeptalk": [
+                "9L1"
+            ]
+        }
     }
 };

@@ -687,7 +687,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         },
         "notes": "Setup sweeper spécial"
     },
-	"tranchodon": {
+    "tranchodon": {
         "num": 28,
         "name": "Tranchodon",
         "types": [
@@ -725,6 +725,452 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "spa": 100,
             "spd": 100,
             "spe": 100
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "raival": {
+        "num": 30,
+        "name": "Raival",
+        "types": [
+            "Electric",
+            "Fighting"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "chagrandr": {
+        "num": 31,
+        "name": "Chagrandr",
+        "types": [
+            "Water",
+            "Rock"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "tonnerrenne": {
+        "num": 32,
+        "name": "Tonnerrenne",
+        "types": [
+            "Ice",
+            "Electric"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "merlureuil": {
+        "num": 33,
+        "name": "Merlureuil",
+        "types": [
+            "Normal"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 100,
+            "atk": 100,
+            "def": 100,
+            "spa": 100,
+            "spd": 100,
+            "spe": 100
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "fleuraptor": {
+        "num": 34,
+        "name": "Fleuraptor",
+        "types": [
+            "Grass"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "shamhaie": {
+        "num": 35,
+        "name": "Shamhaie",
+        "types": [
+            "Grass"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "geckonimo": {
+        "num": 36,
+        "name": "Geckonimo",
+        "types": [
+            "Water"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {
+            "0": "Swift Swim",
+            "1": "Surge Surfer",
+            "H": "Steam Engine"
+        },
+        "notes": ""
+    },
+    "tricracorce": {
+        "num": 37,
+        "name": "Tricéracorce",
+        "types": [
+            "Grass"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "rovampire": {
+        "num": 38,
+        "name": "Rovampire",
+        "types": [
+            "Dark",
+            "Psychic"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "mystermine": {
+        "num": 39,
+        "name": "Mystermine",
+        "types": [
+            "Ice",
+            "Psychic"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "cerfrene": {
+        "num": 40,
+        "name": "Cerfrene",
+        "types": [
+            "Grass"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "freezora": {
+        "num": 41,
+        "name": "Freezora",
+        "types": [
+            "Water",
+            "Ice"
+        ],
+        "heightm": 1.6,
+        "weightkg": 95,
+        "baseStats": {
+            "hp": 64,
+            "atk": 124,
+            "def": 124,
+            "spa": 104,
+            "spd": 64,
+            "spe": 84
+        },
+        "abilities": {
+            "0": "Slush Rush",
+            "1": "Sheer Force"
+        },
+        "notes": "Wallbreaker physique\nSnow user"
+    },
+    "caducylix": {
+        "num": 42,
+        "name": "Caducylix",
+        "types": [
+            "Psychic",
+            "Poison"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "anemieuvre": {
+        "num": 43,
+        "name": "Anemieuvre",
+        "types": [
+            "Ground",
+            "Water"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "craporage": {
+        "num": 44,
+        "name": "Craporage",
+        "types": [
+            "Ground",
+            "Electric"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "orphiflamme": {
+        "num": 45,
+        "name": "Orphiflamme",
+        "types": [
+            "Ground",
+            "Fire"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "lamante": {
+        "num": 46,
+        "name": "Lamante",
+        "types": [
+            "Bug",
+            "Fighting"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "lanturn": {
+        "num": 47,
+        "name": "Lanturn",
+        "types": [
+            "Water",
+            "Electric"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 125,
+            "atk": 58,
+            "def": 28,
+            "spa": 152,
+            "spd": 46,
+            "spe": 137
+        },
+        "abilities": {
+            "0": "Volt Absorb",
+            "1": "Water Absorb"
+        },
+        "notes": ""
+    },
+    "helionstre": {
+        "num": 48,
+        "name": "Helionstre",
+        "types": [
+            "Grass",
+            "Fire"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "lumiion": {
+        "num": 49,
+        "name": "Lumiion",
+        "types": [
+            "Fairy",
+            "Dragon"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "perlonde": {
+        "num": 50,
+        "name": "Perlonde",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "heightm": 2.1,
+        "weightkg": 110,
+        "baseStats": {
+            "hp": 61,
+            "atk": 91,
+            "def": 81,
+            "spa": 131,
+            "spd": 121,
+            "spe": 91
+        },
+        "abilities": {
+            "0": "Competitive"
+        },
+        "notes": "Setup sweeper special\nSoutient"
+    },
+    "fripion": {
+        "num": 51,
+        "name": "Fripion",
+        "types": [
+            "Ice",
+            "Poison"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
         },
         "abilities": {},
         "notes": ""

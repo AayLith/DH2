@@ -119,11 +119,111 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "HSD",
 		doublesTier: "HSD",
 	},
-	tranchodon: {
+	guivronce: {
 		tier: "HSD",
 		doublesTier: "HSD",
 	},
 	neigydre: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	raival: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	chagrandr: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	tonnerrenne: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	merlureuil: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	fleuraptor: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	shamhaie: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	geckonimo: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	triceracorce: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	rovampire: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	mystermine: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	cerfrene: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	freezora: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	caducylix: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	anemieuvre: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	craporage: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	orphiflamme: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	lamante: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	lanturn: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	helionstre: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	lumiion: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	perlonde: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	fripion: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	croisquale: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	peugeossatueur: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	tranchodon: {
 		tier: "HSD",
 		doublesTier: "HSD",
 	}

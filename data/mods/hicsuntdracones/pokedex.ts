@@ -567,7 +567,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "weightkg": 5,
         "baseStats": {
             "hp": 100,
-            "atk": 250,
+            "atk": 248,
             "def": 50,
             "spa": 75,
             "spd": 50,
@@ -609,7 +609,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "heightm": 1.5,
         "weightkg": 20,
         "baseStats": {
-            "hp": 1,
+            "hp": 2,
             "atk": 100,
             "def": 50,
             "spa": 110,

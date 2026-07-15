@@ -1,4 +1,4 @@
-export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
+export const Learnsets: {[k: string]: ModdedSpeciesFormatsData} = {
     "draqueduc": {
         "learnset": {
             "rest": [

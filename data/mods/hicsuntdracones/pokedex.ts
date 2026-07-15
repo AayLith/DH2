@@ -726,7 +726,9 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "spd": 100,
             "spe": 100
         },
-        "abilities": {},
+        "abilities": {
+            "0": "Regenerator"
+        },
         "notes": ""
     },
     "raival": {
@@ -812,19 +814,23 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "num": 34,
         "name": "Fleuraptor",
         "types": [
-            "Grass"
+            "Grass",
+            "Poison"
         ],
-        "heightm": 1,
-        "weightkg": 10,
+        "heightm": 1.2,
+        "weightkg": 34,
         "baseStats": {
-            "hp": 90,
-            "atk": 90,
-            "def": 90,
-            "spa": 90,
-            "spd": 90,
-            "spe": 90
+            "hp": 107,
+            "atk": 126,
+            "def": 74,
+            "spa": 88,
+            "spd": 73,
+            "spe": 108
         },
-        "abilities": {},
+        "abilities": {
+            "0": "Chlorophyll",
+            "1": "Moxie"
+        },
         "notes": ""
     },
     "shamhaie": {
@@ -925,7 +931,9 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "spd": 90,
             "spe": 90
         },
-        "abilities": {},
+        "abilities": {
+            "0": "Slush Rush"
+        },
         "notes": ""
     },
     "cerfrene": {
@@ -1100,17 +1108,20 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "Grass",
             "Fire"
         ],
-        "heightm": 1,
-        "weightkg": 10,
+        "heightm": 2.6,
+        "weightkg": 280,
         "baseStats": {
-            "hp": 90,
-            "atk": 90,
-            "def": 90,
-            "spa": 90,
-            "spd": 90,
-            "spe": 90
+            "hp": 78,
+            "atk": 102,
+            "def": 129,
+            "spa": 122,
+            "spd": 98,
+            "spe": 71
         },
-        "abilities": {},
+        "abilities": {
+            "0": "Solar Power",
+            "1": "No Guard"
+        },
         "notes": ""
     },
     "lumiion": {
@@ -1173,6 +1184,51 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "spe": 90
         },
         "abilities": {},
+        "notes": ""
+    },
+    "croisquale": {
+        "num": 52,
+        "name": "Croisquale",
+        "types": [
+            "Fairy",
+            "Water"
+        ],
+        "heightm": 1.2,
+        "weightkg": 54,
+        "baseStats": {
+            "hp": 117,
+            "atk": 75,
+            "def": 103,
+            "spa": 103,
+            "spd": 56,
+            "spe": 92
+        },
+        "abilities": {
+            "0": "Well-Baked Body"
+        },
+        "notes": ""
+    },
+    "ossatueur": {
+        "num": 53,
+        "name": "Peugeossatueur",
+        "types": [
+            "Ground",
+            "Rock"
+        ],
+        "heightm": 1.2,
+        "weightkg": 450,
+        "baseStats": {
+            "hp": 60,
+            "atk": 120,
+            "def": 110,
+            "spa": 110,
+            "spd": 80,
+            "spe": 60
+        },
+        "abilities": {
+            "0": "Speed Boost",
+            "H": "Steam Engine"
+        },
         "notes": ""
     }
 };

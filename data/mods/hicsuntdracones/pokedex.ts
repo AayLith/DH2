@@ -877,7 +877,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
     },
     "tricracorce": {
         "num": 37,
-        "name": "Tricéracorce",
+        "name": "Triceracorce",
         "types": [
             "Grass"
         ],

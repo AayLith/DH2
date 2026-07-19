@@ -467,7 +467,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         },
         "notes": "Trick room\nSand user\nWallbreaker physique"
     },
-    "grayena": {
+    "grahyena": {
         "num": 5,
         "name": "Grahyena",
         "types": [
@@ -1208,7 +1208,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         },
         "notes": ""
     },
-    "ossatueur": {
+    "peugeossatueur": {
         "num": 53,
         "name": "Peugeossatueur",
         "types": [

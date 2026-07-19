@@ -4121,7 +4121,7 @@ export const Learnsets: {[k: string]: ModdedSpeciesFormatsData} = {
             ]
         }
     },
-    "grayena": {
+    "grahyena": {
         "learnset": {
             "rest": [
                 "9L1"
@@ -7948,7 +7948,7 @@ export const Learnsets: {[k: string]: ModdedSpeciesFormatsData} = {
             ]
         }
     },
-    "ossatueur": {
+    "peugeossatueur": {
         "learnset": {
             "rest": [
                 "9L1"

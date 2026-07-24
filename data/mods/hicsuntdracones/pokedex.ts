@@ -1236,5 +1236,169 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "H": "Steam Engine"
         },
         "notes": ""
+    },
+	"jianpao": {
+        "num": 1,
+        "name": "Jianpao",
+        "types": [
+            "Psychic",
+            "Steel"
+        ],
+        "heightm": 1.7,
+        "weightkg": 110,
+        "baseStats": {
+            "hp": 50,
+            "atk": 135,
+            "def": 85,
+            "spa": 60,
+            "spd": 120,
+            "spe": 100
+        },
+        "abilities": {
+            "1": "Supreme Overlord"
+        },
+        "notes": "Setup sweeper physique\nfinish sweeper"
+    },
+    "seracrawl": {
+        "num": 2,
+        "name": "Seracrawl",
+        "types": [
+            "Bug",
+            "Rock"
+        ],
+        "heightm": 2,
+        "weightkg": 505,
+        "baseStats": {
+            "hp": 95,
+            "atk": 127,
+            "def": 184,
+            "spa": 34,
+            "spd": 72,
+            "spe": 38
+        },
+        "abilities": {
+            "0": "Strong Jaw"
+        },
+        "notes": ""
+    },
+    "nuitverne": {
+        "num": 3,
+        "name": "Nuitverne",
+        "types": [
+            "Dragon",
+            "Dark"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "cockatruc": {
+        "num": 4,
+        "name": "Cockatruc",
+        "types": [
+            "Dark"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "griffier": {
+        "num": 5,
+        "name": "Griffier",
+        "types": [
+            "Flying"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "lumiciole": {
+        "num": 6,
+        "name": "Lumiciole",
+        "types": [
+            "Bug",
+            "Fairy"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "devithorn": {
+        "num": 7,
+        "name": "Devithorn",
+        "types": [
+            "Grass",
+            "Fighting"
+        ],
+        "heightm": 1,
+        "weightkg": 10,
+        "baseStats": {
+            "hp": 90,
+            "atk": 90,
+            "def": 90,
+            "spa": 90,
+            "spd": 90,
+            "spe": 90
+        },
+        "abilities": {},
+        "notes": ""
+    },
+    "arsaurien": {
+        "num": 8,
+        "name": "Arsaurien",
+        "types": [
+            "Ground",
+            "Poison"
+        ],
+        "heightm": 0.9,
+        "weightkg": 70,
+        "baseStats": {
+            "hp": 32,
+            "atk": 118,
+            "def": 90,
+            "spa": 93,
+            "spd": 140,
+            "spe": 96
+        },
+        "abilities": {
+            "0": "Merciless"
+        },
+        "notes": "Hazard setter\nLate sweeper"
     }
 };

@@ -716,20 +716,20 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "Dragon",
             "Ice"
         ],
-        "heightm": 1,
-        "weightkg": 10,
+        "heightm": 1.6,
+        "weightkg": 180,
         "baseStats": {
-            "hp": 100,
-            "atk": 100,
-            "def": 100,
-            "spa": 100,
-            "spd": 100,
-            "spe": 100
+            "hp": 117,
+            "atk": 110,
+            "def": 44,
+            "spa": 93,
+            "spd": 124,
+            "spe": 112
         },
         "abilities": {
             "0": "Regenerator"
         },
-        "notes": ""
+        "notes": "Pivot défensif\n"
     },
     "raival": {
         "num": 30,
@@ -738,17 +738,20 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
             "Electric",
             "Fighting"
         ],
-        "heightm": 1,
-        "weightkg": 10,
+        "heightm": 170,
+        "weightkg": 70,
         "baseStats": {
-            "hp": 90,
-            "atk": 90,
-            "def": 90,
-            "spa": 90,
-            "spd": 90,
-            "spe": 90
+            "hp": 95,
+            "atk": 108,
+            "def": 50,
+            "spa": 85,
+            "spd": 91,
+            "spe": 107
         },
-        "abilities": {},
+        "abilities": {
+            "0": "Wind Rider",
+            "1": "Surge Surfer"
+        },
         "notes": ""
     },
     "chagrandr": {
@@ -861,19 +864,19 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "heightm": 1,
         "weightkg": 10,
         "baseStats": {
-            "hp": 90,
-            "atk": 90,
-            "def": 90,
-            "spa": 90,
-            "spd": 90,
-            "spe": 90
+            "hp": 69,
+            "atk": 134,
+            "def": 71,
+            "spa": 79,
+            "spd": 103,
+            "spe": 95
         },
         "abilities": {
             "0": "Swift Swim",
             "1": "Surge Surfer",
             "H": "Steam Engine"
         },
-        "notes": ""
+        "notes": "Rain user\nElec user"
     },
     "tricracorce": {
         "num": 37,
@@ -942,18 +945,21 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "types": [
             "Grass"
         ],
-        "heightm": 1,
-        "weightkg": 10,
+        "heightm": 2,
+        "weightkg": 145,
         "baseStats": {
             "hp": 90,
-            "atk": 90,
-            "def": 90,
-            "spa": 90,
-            "spd": 90,
-            "spe": 90
+            "atk": 85,
+            "def": 75,
+            "spa": 115,
+            "spd": 100,
+            "spe": 115
         },
-        "abilities": {},
-        "notes": ""
+        "abilities": {
+            "0": "Flower Gift",
+            "1": "Pressure"
+        },
+        "notes": "Sun user"
     },
     "freezora": {
         "num": 41,

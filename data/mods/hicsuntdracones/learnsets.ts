@@ -9161,7 +9161,7 @@ export const Learnsets: {[k: string]: ModdedSpeciesFormatsData} = {
             ]
         }
     },
-	"jianpao": {
+    "jianpao": {
         "learnset": {
             "rest": [
                 "9L1"
@@ -9735,6 +9735,111 @@ export const Learnsets: {[k: string]: ModdedSpeciesFormatsData} = {
             ],
             "sleeptalk": [
                 "9L1"
+            ],
+            "outrage": [
+                "9M"
+            ],
+            "petaldance": [
+                "9M"
+            ],
+            "ragingfury": [
+                "9M"
+            ],
+            "thrash": [
+                "9M"
+            ],
+            "swagger": [
+                "9M"
+            ],
+            "brickbreak": [
+                "9M"
+            ],
+            "bulkup": [
+                "9M"
+            ],
+            "closecombat": [
+                "9M"
+            ],
+            "wakeupslap": [
+                "9M"
+            ],
+            "rocksmash": [
+                "9M"
+            ],
+            "revenge": [
+                "9M"
+            ],
+            "meteorassault": [
+                "9M"
+            ],
+            "lowsweep": [
+                "9M"
+            ],
+            "lowkick": [
+                "9M"
+            ],
+            "doubleedge": [
+                "9M"
+            ],
+            "takedown": [
+                "9M"
+            ],
+            "submission": [
+                "9M"
+            ],
+            "wildcharge": [
+                "9M"
+            ],
+            "tackle": [
+                "9M"
+            ],
+            "lashout": [
+                "9M"
+            ],
+            "pursuit": [
+                "9M"
+            ],
+            "assurance": [
+                "9M"
+            ],
+            "furycutter": [
+                "9M"
+            ],
+            "payback": [
+                "9M"
+            ],
+            "temperflare": [
+                "9M"
+            ],
+            "stompingtantrum": [
+                "9M"
+            ],
+            "facade": [
+                "9M"
+            ],
+            "retaliate": [
+                "9M"
+            ],
+            "dragonrage": [
+                "9M"
+            ],
+            "ragepowder": [
+                "9M"
+            ],
+            "ragefist": [
+                "9M"
+            ],
+            "rage": [
+                "9M"
+            ],
+            "reversal": [
+                "9M"
+            ],
+            "flail": [
+                "9M"
+            ],
+            "lastresort": [
+                "9M"
             ]
         }
     },

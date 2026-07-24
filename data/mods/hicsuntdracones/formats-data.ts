@@ -226,5 +226,37 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	tranchodon: {
 		tier: "HSD",
 		doublesTier: "HSD",
+	},
+	jianpao: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	seracrawl: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	nuitverne: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	cockatruc: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	griffier: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	lumiciole: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	devithorn: {
+		tier: "HSD",
+		doublesTier: "HSD",
+	},
+	arsaurien: {
+		tier: "HSD",
+		doublesTier: "HSD",
 	}
 };

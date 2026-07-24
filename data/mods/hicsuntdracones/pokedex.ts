@@ -1237,8 +1237,8 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         },
         "notes": ""
     },
-	"jianpao": {
-        "num": 1,
+    "jianpao": {
+        "num": 54,
         "name": "Jianpao",
         "types": [
             "Psychic",
@@ -1260,7 +1260,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "notes": "Setup sweeper physique\nfinish sweeper"
     },
     "seracrawl": {
-        "num": 2,
+        "num": 55,
         "name": "Seracrawl",
         "types": [
             "Bug",
@@ -1282,7 +1282,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "notes": ""
     },
     "nuitverne": {
-        "num": 3,
+        "num": 56,
         "name": "Nuitverne",
         "types": [
             "Dragon",
@@ -1302,7 +1302,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "notes": ""
     },
     "cockatruc": {
-        "num": 4,
+        "num": 57,
         "name": "Cockatruc",
         "types": [
             "Dark"
@@ -1321,7 +1321,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "notes": ""
     },
     "griffier": {
-        "num": 5,
+        "num": 58,
         "name": "Griffier",
         "types": [
             "Flying"
@@ -1340,7 +1340,7 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "notes": ""
     },
     "lumiciole": {
-        "num": 6,
+        "num": 59,
         "name": "Lumiciole",
         "types": [
             "Bug",
@@ -1360,27 +1360,29 @@ export const Pokedex: {[speciesid: string]: ModdedSpeciesData} = {
         "notes": ""
     },
     "devithorn": {
-        "num": 7,
+        "num": 60,
         "name": "Devithorn",
         "types": [
             "Grass",
             "Fighting"
         ],
-        "heightm": 1,
-        "weightkg": 10,
+        "heightm": 1.5,
+        "weightkg": 80,
         "baseStats": {
-            "hp": 90,
-            "atk": 90,
-            "def": 90,
-            "spa": 90,
-            "spd": 90,
-            "spe": 90
+            "hp": 51,
+            "atk": 131,
+            "def": 54,
+            "spa": 65,
+            "spd": 104,
+            "spe": 125
         },
-        "abilities": {},
+        "abilities": {
+            "0": "Own Tempo"
+        },
         "notes": ""
     },
     "arsaurien": {
-        "num": 8,
+        "num": 61,
         "name": "Arsaurien",
         "types": [
             "Ground",
